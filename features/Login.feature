@@ -1,5 +1,4 @@
 
-
 Feature: Login
 
     Scenario: Login with right credentials
